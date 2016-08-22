@@ -1,0 +1,22 @@
+{
+  "name": "test-fail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soajsTestAccount/testFail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soajsTestAccount/testFail/issues"
+  },
+  "homepage": "https://github.com/soajsTestAccount/testFail#readme",
+  "dependencies": {
+      "soajs": "*"
+  }
+}
